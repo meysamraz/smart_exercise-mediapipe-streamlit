@@ -17,7 +17,7 @@ Using the key points that we extract from the MediaPipe and calculating the Angl
 
 ### Install Libraries
 
-```pip install pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 ### Run 
 
